@@ -1,0 +1,16 @@
+
+===========TITLE TEST============
+Title is correct - TEST SUCCESSFUL
+=================================
+
+==========REDIRECT TEST==========
+		CLICK TEST SUCCESSFUL
+=================================
+
+===========LOGIN TEST============
+	LOGIN TEST 1 FAILED
+	LOGIN TEST 2 FAILED
+	LOGIN TEST 3 FAILED
+	LOGIN TEST 4 SUCCESSFUL
+
+=================================
