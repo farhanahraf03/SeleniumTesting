@@ -19,4 +19,6 @@ TEST CASES - 1)TestTitle of page
                c)username = "admin",password = "admin"
                d)username = "admin",password = "admin123"
                
+Test Report is generated as a text file.
+               
 
