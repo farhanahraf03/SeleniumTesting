@@ -11,3 +11,12 @@ Run as JAVA application.
 
 GeckoDriver is used for browser interaction with ForeFox Browser.
 
+TEST CASES - 1)TestTitle of page
+             2)TestTitle after Page Redirection when a link is clicked
+             3)LoginTest
+               a)username = "",password = ""
+               b)username = "admin",password = ""
+               c)username = "admin",password = "admin"
+               d)username = "admin",password = "admin123"
+               
+
